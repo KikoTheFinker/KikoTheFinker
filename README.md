@@ -1,7 +1,7 @@
-#### 📊Socials:
+### 📊Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-black.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kristijan-stojanovski-006b51304/) 
 
-#### 📊Tech Stack:
+### 📊Tech Stack:
 
 <p align="center">
   <img src="https://img.shields.io/badge/c-black.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
@@ -38,7 +38,7 @@
 </p>
 
 
-#### 📊GitHub Stats:
+### 📊GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KikoTheFinker&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KikoTheFinker&theme=highcontrast&hide_border=false" alt="GitHub Streak Stats">
