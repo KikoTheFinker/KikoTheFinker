@@ -1,4 +1,3 @@
-
 #### Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-black.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kristijan-stojanovski-006b51304/) 
 
