@@ -19,7 +19,6 @@
   <img src="https://img.shields.io/badge/shell_script-black.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script">
   <img src="https://img.shields.io/badge/javascript-black.svg?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
   <img src="https://img.shields.io/badge/github-black.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/Canva-black.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva">
   <img src="https://img.shields.io/badge/jquery-black.svg?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery">
   <img src="https://img.shields.io/badge/Thymeleaf-black.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white" alt="Thymeleaf">
   <img src="https://img.shields.io/badge/threejs-black.svg?style=for-the-badge&logo=three.js&logoColor=white" alt="Three js">
