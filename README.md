@@ -27,7 +27,6 @@
   <img src="https://img.shields.io/badge/bootstrap-black.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
   <img src="https://img.shields.io/badge/Hibernate-black.svg?style=for-the-badge&logo=Hibernate&logoColor=white" alt="Hibernate">
   <img src="https://img.shields.io/badge/Gradle-black.svg?style=for-the-badge&logo=Gradle&logoColor=white" alt="Gradle">
-  <img src="https://img.shields.io/badge/Next-black.svg?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS">
   <img src="https://img.shields.io/badge/pandas-black.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
   <img src="https://img.shields.io/badge/scikit--learn-black.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn">
   <img src="https://img.shields.io/badge/numpy-black.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
