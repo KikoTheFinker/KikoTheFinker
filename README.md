@@ -10,8 +10,7 @@
   <img src="https://img.shields.io/badge/spring-black.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring">
   <img src="https://img.shields.io/badge/postgres-black.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres">
   <img src="https://img.shields.io/badge/javascript-black.svg?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
-  <img src="https://img.shields.io/badge/github-black.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/Gradle-black.svg?style=for-the-badge&logo=Gradle&logoColor=white" alt="Gradle">
+  <img src="https://img.shields.io/badge/git-black.svg?style=for-the-badge&logo=github&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/docker-black.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
 </p>
 
