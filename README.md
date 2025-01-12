@@ -8,10 +8,10 @@
   <img src="https://img.shields.io/badge/c%23-black.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
   <img src="https://img.shields.io/badge/.net-black.svg?style=for-the-badge&logo=csharp&logoColor=white" alt=".Net">
   <img src="https://img.shields.io/badge/blazor-black.svg?style=for-the-badge&logo=blazor&logoColor=white" alt="Blazor">
-  <img src="https://img.shields.io/badge/react-black.svg?style=for-the-badge&logo=react&logoColor=white" alt="React">
-  <img src="https://img.shields.io/badge/javascript-black.svg?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
   <img src="https://img.shields.io/badge/python-black.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/FastAPI-black?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastApi">
+  <img src="https://img.shields.io/badge/react-black.svg?style=for-the-badge&logo=react&logoColor=white" alt="React">
+  <img src="https://img.shields.io/badge/javascript-black.svg?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
   <img src="https://img.shields.io/badge/postgres-black.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres">
   <img src="https://img.shields.io/badge/git-black.svg?style=for-the-badge&logo=github&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/docker-black.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
