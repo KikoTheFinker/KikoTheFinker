@@ -26,7 +26,7 @@
  <img src="https://github-readme-stats.vercel.app/api?username=KikoTheFinker&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats">
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kikothefinker&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KikoTheFinker&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
 </p>
 
 ---
