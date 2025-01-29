@@ -5,9 +5,9 @@
 <p align="center">
   <img src="https://img.shields.io/badge/java-black.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/spring-black.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring">
+  <img src="https://img.shields.io/badge/thymeleaf-black.svg?style=for-the-badge&logo=thymeleaf&logoColor=white" alt="Thymeleaf">
   <img src="https://img.shields.io/badge/c%23-black.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
   <img src="https://img.shields.io/badge/.net-black.svg?style=for-the-badge&logo=csharp&logoColor=white" alt=".Net">
-  <img src="https://img.shields.io/badge/blazor-black.svg?style=for-the-badge&logo=blazor&logoColor=white" alt="Blazor">
   <img src="https://img.shields.io/badge/python-black.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/FastAPI-black?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastApi">
   <img src="https://img.shields.io/badge/react-black.svg?style=for-the-badge&logo=react&logoColor=white" alt="React">
